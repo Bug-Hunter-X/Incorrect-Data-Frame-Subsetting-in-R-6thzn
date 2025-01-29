@@ -1,0 +1,2 @@
+# Incorrect Data Frame Subsetting in R
+This repository demonstrates a common error in R programming related to data frame subsetting using character vectors.  The code attempts to select a column by name using incorrect syntax, leading to unexpected results or errors. The solution illustrates the correct method for subsetting data frames with character vector indexing.  This is a crucial concept for efficient data manipulation in R.
